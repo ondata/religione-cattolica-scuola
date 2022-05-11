@@ -23,6 +23,6 @@ cat "$folder"/../risorse/numero-alunni.jsonl | while read -r line; do
 done
 
 # calcola numero di alunni per scuola negli anni
-mlr --csv stats1 -f ALUNNI -a sum -g ANNOSCOLASTICO,CODICESCUOLA then sort -f ANNOSCOLASTICO,CODICESCUOLA then rename ALUNNI_sum,ALUNNI "$folder"/tmp/ALUCORSOETASTA20* >"$folder"/../data/alunni-scuole.csv
+mlr --csv stats1 -f ALUNNI -a sum -g ANNOSCOLASTICO,CODICESCUOLA then sort -f ANNOSCOLASTICO,CODICESCUOLA then rename ALUNNI_sum,ALUNNI "$folder"/tmp/ALUCORSOETA*20* >"$folder"/../data/alunni-scuole.csv
 
 cd "$folder"
