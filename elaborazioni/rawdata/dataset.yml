@@ -1,0 +1,20 @@
+# --------
+# metadata: Alunni che frequentano Rel Catt_2018-19_2019-20_2020-21.csv
+# --------
+
+path: religione-cattolica-scuola.csv
+name: religione-cattolica-scuola
+profile: tabular-data-resource
+scheme: file
+format: csv
+hashing: md5
+encoding: utf-8
+schema:
+  fields:
+    - type: string
+      name: codice-scuola
+    - type: string
+      name: numero-alunni
+    - type: string
+      name: anno
+
