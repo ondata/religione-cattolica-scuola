@@ -6,4 +6,4 @@ Tre i campi:
 
 - `codice-scuola`, un campo di testo, con il codice scolastico dell'istituto, disponibile nell'[anagrafica delle scuole](https://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole) presente nel portale open data del Ministero dell'Istruzione;
 - `numero-alunni`, un campo numerico, con il numero degli alunni;
-- `anno`, un campo stringa, per definire l'anno di riferimento.
+- `anno`, un campo di testo, per definire l'anno di riferimento.
