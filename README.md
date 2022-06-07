@@ -16,7 +16,7 @@ Abbiamo avuto risposta soltanto al secondo punto.
 
 I dati grezzi sono disponibili in due formati, e contengono i dati su studenti e studentesse che si sono avvalsi dell'insegnamento della religione cattolica a scuola, aggregati per istituto, negli anni scolastici 2018-2019, 2019-2020 e 2020-2021.
 
-Sono disponibile per il riuso, con il solo obbligo di citazione della fonte (questo repository), con licenza [Creative Commons — Attribution 4.0 International — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
+Sono disponibili per il riuso, con il solo obbligo di citazione della fonte (questo repository), con licenza [Creative Commons — Attribution 4.0 International — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
 
 ### XLSX
 
