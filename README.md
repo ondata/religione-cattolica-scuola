@@ -12,7 +12,7 @@ In particolare conoscere:
 
 Abbiamo avuto risposta soltanto al secondo punto.
 
-## I dati
+## I dati grezzi
 
 I dati grezzi sono disponibili in due formati, e contengono i dati su studenti e studentesse che si sono avvalsi dell'insegnamento della religione cattolica a scuola, aggregati per istituto, negli anni scolastici 2018-2019, 2019-2020 e 2020-2021.
 
@@ -37,6 +37,6 @@ Il [file `CSV`](elaborazioni/rawdata/religione-cattolica-scuola.csv?raw=true) è
 - `numero-alunni`, con il numero degli alunni;
 - `anno`, per definire l'anno di riferimento.
 
+## Elaborazioni
 
-
-
+È stato creato un foglio elettronico (in formato [`ODS`](elaborazioni/ods/religione-cattolica-scuola.ods?raw=true) e [`XLSX`](elaborazioni/ods/religione-cattolica-scuola.xlsx?raw=true)), con dei dati di riepilogo, utili a farsi un quadro
