@@ -16,4 +16,4 @@ Abbiamo avuto risposta soltanto al secondo punto.
 
 I dati grezzi sono disponibili in due formati:
 
-- in [formato `XLSX`](dati/miur/Alunni%20che%20frequentano%20Rel%20Catt_2018-19_2019-20_2020-21.xlsx), ovvero come ricevuto dal Ministero
+- in [formato `XLSX`](dati/miur/Alunni%20che%20frequentano%20Rel%20Catt_2018-19_2019-20_2020-21.xlsx?raw=true), ovvero come ricevuto dal Ministero
