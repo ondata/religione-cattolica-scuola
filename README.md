@@ -39,4 +39,4 @@ Il [file `CSV`](elaborazioni/rawdata/religione-cattolica-scuola.csv?raw=true) è
 
 ## Elaborazioni
 
-È stato creato un foglio elettronico (in formato [`ODS`](elaborazioni/ods/religione-cattolica-scuola.ods?raw=true) e [`XLSX`](elaborazioni/ods/religione-cattolica-scuola.xlsx?raw=true)), con dei dati di riepilogo, utili a farsi un quadro
+È stato creato un foglio elettronico (in formato [`ODS`](elaborazioni/ods/religione-cattolica-scuola.ods?raw=true) e [`XLSX`](elaborazioni/ods/religione-cattolica-scuola.xlsx?raw=true)), con dei dati di riepilogo, utili a farsi un quadro.
