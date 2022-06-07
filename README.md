@@ -14,7 +14,29 @@ Abbiamo avuto risposta soltanto al secondo punto.
 
 ## I dati
 
-I dati grezzi sono disponibili in due formati:
+I dati grezzi sono disponibili in due formati, e contengono i dati su studenti e studentesse che si sono avvalsi dell'insegnamento della religione cattolica a scuola, aggregati per istituto, negli anni scolastici 2018-2019, 2019-2020 e 2020-2021.
 
-- in [formato `XLSX`](dati/miur/Alunni%20che%20frequentano%20Rel%20Catt_2018-19_2019-20_2020-21.xlsx?raw=true), ovvero come ricevuti dal Ministero;
-- in [formato `CSV`](elaborazioni/rawdata/religione-cattolica-scuola.csv?raw=true)
+Sono disponibile per il riuso, con il solo obbligo di citazione della fonte (questo repository), con licenza [Creative Commons — Attribution 4.0 International — CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.it).
+
+### XLSX
+
+Il [file `XLSX`](dati/miur/Alunni%20che%20frequentano%20Rel%20Catt_2018-19_2019-20_2020-21.xlsx?raw=true), è il formato che ci ha restituito il ministero.
+
+È diviso in 3 fogli, uno per ogni anno scolastico.
+
+Due le colonne presenti:
+
+- `Codice Scuola`, con il codice scolastico dell'istituto, disponibile nell'[anagrafica delle scuole](https://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole) presente nel portale open data del Ministero dell'Istruzione;
+- `Numero di alunni che frequentano l'ora di religione - a.s. 20xx/xx`, con il numero degli alunni.
+
+### CSV
+
+Il [file `CSV`](elaborazioni/rawdata/religione-cattolica-scuola.csv?raw=true) è stato estratto dal file `XLSX` e trasformato in un'unica tabella, con queste 3 colonne:
+
+- `codice-scuola`, con il codice scolastico dell'istituto, disponibile nell'[anagrafica delle scuole](https://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole) presente nel portale open data del Ministero dell'Istruzione;
+- `numero-alunni`, con il numero degli alunni;
+- `anno`, per definire l'anno di riferimento.
+
+
+
+
