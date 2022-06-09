@@ -10,7 +10,7 @@ In particolare conoscere:
 - numero di studenti che si avvalgono dell'insegnamento della religione cattolica, aggregati per istituto scolastico;
 - dettaglio delle scelte alternative all'insegnamento della religione cattolica.
 
-La richiesta dello Uaar ha avuto risposta soltanto al secondo punto.
+La richiesta dell'Uaar ha avuto risposta soltanto al secondo punto.
 
 Trovi due post gemelli su questa azione #datiBeneComune qui:
 
