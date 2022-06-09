@@ -40,3 +40,16 @@ Il [file `CSV`](elaborazioni/rawdata/religione-cattolica-scuola.csv?raw=true) è
 ## Elaborazioni
 
 È stato creato un foglio elettronico (in formato [`ODS`](elaborazioni/ods/religione-cattolica-scuola.ods?raw=true) e [`XLSX`](elaborazioni/ods/religione-cattolica-scuola.xlsx?raw=true)), con dei dati di riepilogo, utili a farsi un quadro.
+
+## Dati di riferimento
+
+Abbiamo incrociato i dati ricevuti dal Ministero in risposta alla richiesta di accesso, con questi altri:
+
+- Studenti per anno di corso e fascia di eta'. Scuola statale https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0010ALUCORSOETASTA
+- Studenti per anno di corso e fascia di eta'. Scuola paritaria https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0020ALUCORSOETAPAR
+- Studenti per anno di corso, classe e genere. Scuola statale anno scolastico https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0030ALUCORSOINDCLASTA
+- Studenti per anno di corso, classe e genere. Scuola paritaria https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0040ALUCORSOINDCLAPAR
+- Studenti scuola secondaria di secondo grado per indirizzo. Scuola statale https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0070ALUSECGRADOINDSTA
+- Studenti scuola secondaria di secondo grado per indirizzo. Scuola paritaria https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS0080ALUSECGRADOINDPAR
+- Numero dei bambini per fascia di eta'. Scuola statale https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS1116INFANZIAETASTA
+- Numero dei bambini per fascia di eta'. Scuola paritaria https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Studenti&datasetId=DS1117INFANZIAETAPAR
