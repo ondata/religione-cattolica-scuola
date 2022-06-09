@@ -12,6 +12,11 @@ In particolare conoscere:
 
 La richiesta dello Uaar ha avuto risposta soltanto al secondo punto.
 
+Trovi due post gemelli su questa azione #datiBeneComune qui:
+
+➡️ <https://blog.uaar.it/2022/06/09/datibenecomune-e-uaar-ecco-i-dati-su-irc><br>
+➡️ <https://www.datibenecomune.it/2022/06/09/datibenecomune-e-uaar-ecco-i-dati-ministeriali-sullinsegnamento-della-religione-cattolica/>
+
 ## I dati grezzi
 
 I dati grezzi sono disponibili in due formati, e contengono i dati su studenti e studentesse che si sono avvalsi dell'insegnamento della religione cattolica a scuola, aggregati per istituto, negli anni scolastici 2018-2019, 2019-2020 e 2020-2021.
